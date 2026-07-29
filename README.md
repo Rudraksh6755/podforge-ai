@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="PodForge AI Banner" width="100%">
+  <img src="assets/banner/banner.png" alt="PodForge AI Banner" width="100%">
 </p>
 
 # 🎙️ PodForge AI
