@@ -16,6 +16,15 @@ An AI-powered podcast generator that transforms any topic into a natural-soundin
 
 PodForge AI is an end-to-end AI application that allows users to generate podcast episodes from any topic. The application generates a conversational script using Google Gemini API, converts it into realistic speech using the Murf API, and automates the complete workflow through n8n. The frontend is built with Lovable to provide a simple and intuitive user experience.
 
+## 🚀 Highlights
+
+- AI-powered podcast generation
+- Google Gemini API integration
+- Murf API for text-to-speech
+- Automated workflow using n8n
+- Frontend built with Lovable
+- End-to-end API orchestration
+
 ## ✨ Features
 
 - Generate podcast scripts from any topic
