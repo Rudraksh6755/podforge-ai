@@ -33,7 +33,7 @@ PodForge AI is an end-to-end AI application that allows users to generate podcas
 - Fast and responsive user interface
 - End-to-end API integration
 
-- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Google Gemini API
 - Murf API
