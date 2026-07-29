@@ -33,14 +33,17 @@ PodForge AI is an end-to-end AI application that allows users to generate podcas
 - HTTP APIs
 - Webhooks
 - Generative AI
-
-- ## 📷 Screenshots
+## 📷 Screenshots
 
 ### Home Page
 
 ![Home](assets/screenshots/home.png)
 
-### Podcast Generation
+### User Input
+
+![Input](assets/screenshots/input.png)
+
+### Generated Podcast
 
 ![Podcast](assets/screenshots/podcast.png)
 
