@@ -54,18 +54,25 @@ PodForge AI is an end-to-end AI application that allows users to generate podcas
 
 ## ⚙️ Workflow
 
-User Input
-      ↓
-Google Gemini API
-      ↓
-Podcast Script
-      ↓
-Murf API
-      ↓
+```text
+User
+   │
+   ▼
+PodForge AI (Lovable)
+   │
+   ▼
+Webhook
+   │
+   ▼
+n8n Workflow
+   │
+   ├── Google Gemini API
+   │
+   └── Murf API
+          │
+          ▼
 Podcast Audio
-      ↓
-Response to User
-
+```
 ## 👨‍💻 Author
 
 **Rudraksh Kawale**
