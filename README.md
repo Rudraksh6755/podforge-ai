@@ -1,5 +1,11 @@
 # 🎙️ PodForge AI
 
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google)
+![Murf API](https://img.shields.io/badge/Murf-API-purple?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Workflow-orange?style=for-the-badge&logo=n8n)
+![Lovable](https://img.shields.io/badge/Lovable-AI-pink?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative-AI-green?style=for-the-badge)
+
 An AI-powered podcast generator that transforms any topic into a natural-sounding podcast using Google Gemini API, Murf API, and n8n workflow automation.
 
 ## 🌐 Live Demo
