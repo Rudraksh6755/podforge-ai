@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="PodForge AI Banner" width="100%">
+</p>
+
 # 🎙️ PodForge AI
 
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google)
